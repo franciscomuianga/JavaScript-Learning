@@ -1,0 +1,13 @@
+# Ignorar arquivos Python
+*.py
+
+# Ignorar arquivos de texto
+*.txt
+
+# Ignorar pastas ocultas
+.*
+!.gitignore
+
+# Ignorar arquivos de configuração
+*.md
+LICENSE
